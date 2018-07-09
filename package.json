@@ -1,0 +1,17 @@
+{
+  "name": "mycelium-launcher",
+  "version": "0.1.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/PropertyDamage/mycelium-launcher",
+  "keywords": [
+    "Electron"
+  ],
+  "author": "pedro-pires",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
